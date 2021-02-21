@@ -106,4 +106,7 @@ deploy:
   type: git
   repo: https://github.com/Shuimqh/shuimqh.github.io
   branch: master
-
+# 提交源代码到github myblog分支
+# git add .
+# git commit -m ''
+# git push --set-upstream origin myblog
